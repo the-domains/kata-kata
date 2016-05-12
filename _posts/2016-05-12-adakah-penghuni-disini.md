@@ -1,14 +1,15 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ADAKAH PENGHUNI DISINI?
-datePublished: '2016-05-12T19:14:55.699Z'
-dateModified: '2016-05-12T19:14:30.408Z'
+datePublished: '2016-05-12T20:04:13.725Z'
+dateModified: '2016-05-12T19:30:49.764Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-12-adakah-penghuni-disini.md
 authors: []
 publisher:
   name: null
@@ -16,11 +17,9 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-12-adakah-penghuni-disini.md
 url: adakah-penghuni-disini/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95f240db-9599-4fc5-8d82-29b8777de5c6.jpg)
-
 ADAKAH PENGHUNI DISINI?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95f240db-9599-4fc5-8d82-29b8777de5c6.jpg)
