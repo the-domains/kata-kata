@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: BERCERITAKAH PENGHUNINYA?
-datePublished: '2016-05-12T20:24:16.381Z'
-dateModified: '2016-05-12T20:24:13.694Z'
+datePublished: '2016-05-12T20:25:13.298Z'
+dateModified: '2016-05-12T20:24:26.017Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-12-berceritakah-penghuninya.md
