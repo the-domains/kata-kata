@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: BERCERITAKAH PENGHUNINYA?
-datePublished: '2016-05-12T20:19:19.766Z'
-dateModified: '2016-05-12T20:16:36.894Z'
+datePublished: '2016-05-12T20:24:16.381Z'
+dateModified: '2016-05-12T20:24:13.694Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-12-berceritakah-penghuninya.md
@@ -18,7 +18,7 @@ publisher:
   favicon: null
 starred: true
 url: berceritakah-penghuninya/index.html
-_type: WebPage
+_type: Article
 
 ---
 BERCERITAKAH PENGHUNINYA?
