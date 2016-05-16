@@ -1,29 +1,41 @@
-name: KATA KATA
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.2802136540412903
 title: KATA CERITERA KATA
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: KATA KATA
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0
+  lightness: 0.8899648275692016
+  saturation: 0.9907998871058226
+  rhythmicContrast: 0.5
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 1
-  lightness: 0.8899648275692016
-  saturation: 0.9907998871058226
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.2802136540412903
